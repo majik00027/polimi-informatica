@@ -15,4 +15,4 @@
 |Economia   |8.00-10.00 |Lezione|F.0.1 |Venerdì  |
 |Informatica|10.00-13.00|Eser   |F.0.1 |Venerdì  |
 
-[image](http://img69.imageshack.us/img69/3128/9lk3.jpg)
+![](http://img69.imageshack.us/img69/3128/9lk3.jpg)
