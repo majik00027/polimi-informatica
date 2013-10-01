@@ -15,6 +15,8 @@
 
 [Analisi Matematica 1 Volume 2](https://www.dropbox.com/s/wm2ii6km1qn7krw/Analisi%20Matematica%202%20Bramanti-Salsa-Pagani.pdf)
 
+[Link ad altri di Matematica e Varie](http://forum.tntvillage.scambioetico.org/?showtopic=197465)
+
 ## Economia
 
 ...
