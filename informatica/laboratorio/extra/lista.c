@@ -5,6 +5,7 @@
 Lista insert, operazioni sopportate:
 insert, pop, cut, search, showAll
 append (aggiunge un elemento in coda)
+
 */
 
 struct el {
@@ -82,6 +83,13 @@ node * cut(node * root){
   return temp;
 }
 
+node * new(node * root){
+  node * new_list;
+  while(root->next != NULL){
+    new_list = append(new_list, root->value);    
+  }
+  return new_list;
+}
 
 int main(){
   node * root = append(NULL, 5);
